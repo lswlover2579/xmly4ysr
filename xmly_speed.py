@@ -27,7 +27,7 @@ cookiesList = [cookies1, ]  # 多账号准备
 
 
 
-UserAgent = "ting_1.8.30(Redmi+Note+8,Android28)"
+UserAgent = "ting_1.8.33(PCGM00,Android29)"
 # 非iOS设备的需要的自行修改,自己抓包 与cookie形式类似
 
 
